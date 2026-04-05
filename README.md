@@ -204,6 +204,7 @@ Authorization: Bearer <your-token>
 ## 👨‍💻 Author
 
 **Pushpender**
+
 Aspiring Backend Developer
 
 ---
@@ -211,3 +212,4 @@ Aspiring Backend Developer
 ## ⭐ If you like this project
 
 Give it a star on GitHub ⭐
+
